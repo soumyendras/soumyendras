@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Soumyendra Narayan Saha
 - 👀 I’m interested in Routing Protocols, Linux kernel, C language, performance and optimization issues in software.  
-- 🌱 I’m currently learning how to tplay good chess
+- 🌱 I’m currently learning how to play good chess
 - 💞️ I’m looking to collaborate on Networking projects
 - 📫 How to reach me soumyendra@gmail.com 
 
